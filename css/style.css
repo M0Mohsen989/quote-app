@@ -1,0 +1,25 @@
+.back-ground1{
+    height: 100vh;
+    background-image: linear-gradient( rgba(137, 9, 9, 0.685)  , rgba(255, 255, 0, 0.696) ) ;
+    background-size:cover;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    border-radius:  15px;
+    box-shadow: 10px;
+}
+.h1size{
+    font-size: 40px;
+}
+
+p{
+    font-size: 30px;
+}
+
+button:hover{
+    background-color: green;
+}
